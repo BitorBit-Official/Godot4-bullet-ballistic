@@ -1,6 +1,10 @@
 # Godot4-bullet-ballistic
 Godot4-bullet-ballistic v1
 
+to use this script create an Node3D in the sceene, to show it as a tracer add a simple mesh of an low poly cilinder/cube facing upwards (0,0,0)
+make sure you add a material into that material
+
+
 https://github.com/user-attachments/assets/473b1bb4-37bb-4bb0-a702-bd08ff1d0af3
 
 
